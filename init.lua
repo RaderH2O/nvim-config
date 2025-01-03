@@ -970,7 +970,8 @@ require('lazy').setup({
 
 require 'keybindings'
 
-vim.cmd [[colorscheme monokai-pro-default]]
+-- vim.cmd [[colorscheme monokai-pro-default]]
+vim.cmd [[colorscheme tokyonight]]
 
 -- require('bufferline').setup {
 --   options = {
